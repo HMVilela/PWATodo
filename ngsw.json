@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1599601753713,
-  "index": "dist/PWATodo/index.html",
+  "timestamp": 1599601889077,
+  "index": "/PWATodo/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "dist/PWATodo/favicon.ico",
-        "dist/PWATodo/index.html",
-        "dist/PWATodo/main.52d9a98fc0e5c2e75cf1.js",
-        "dist/PWATodo/manifest.webmanifest",
-        "dist/PWATodo/polyfills.08cdd93a9921fbb99ed7.js",
-        "dist/PWATodo/runtime.f9956ac3c2762746a398.js",
-        "dist/PWATodo/styles.6f858b2ea39fedb0f502.css"
+        "/PWATodo/favicon.ico",
+        "/PWATodo/index.html",
+        "/PWATodo/main.52d9a98fc0e5c2e75cf1.js",
+        "/PWATodo/manifest.webmanifest",
+        "/PWATodo/polyfills.08cdd93a9921fbb99ed7.js",
+        "/PWATodo/runtime.f9956ac3c2762746a398.js",
+        "/PWATodo/styles.6f858b2ea39fedb0f502.css"
       ],
       "patterns": []
     },
@@ -29,43 +29,43 @@
         "ignoreVary": true
       },
       "urls": [
-        "dist/PWATodo/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
-        "dist/PWATodo/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
-        "dist/PWATodo/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
-        "dist/PWATodo/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
-        "dist/PWATodo/assets/icons/icon-128x128.png",
-        "dist/PWATodo/assets/icons/icon-144x144.png",
-        "dist/PWATodo/assets/icons/icon-152x152.png",
-        "dist/PWATodo/assets/icons/icon-192x192.png",
-        "dist/PWATodo/assets/icons/icon-384x384.png",
-        "dist/PWATodo/assets/icons/icon-512x512.png",
-        "dist/PWATodo/assets/icons/icon-72x72.png",
-        "dist/PWATodo/assets/icons/icon-96x96.png"
+        "/PWATodo/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
+        "/PWATodo/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
+        "/PWATodo/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
+        "/PWATodo/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
+        "/PWATodo/assets/icons/icon-128x128.png",
+        "/PWATodo/assets/icons/icon-144x144.png",
+        "/PWATodo/assets/icons/icon-152x152.png",
+        "/PWATodo/assets/icons/icon-192x192.png",
+        "/PWATodo/assets/icons/icon-384x384.png",
+        "/PWATodo/assets/icons/icon-512x512.png",
+        "/PWATodo/assets/icons/icon-72x72.png",
+        "/PWATodo/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "dist/PWATodo/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
-    "dist/PWATodo/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
-    "dist/PWATodo/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
-    "dist/PWATodo/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
-    "dist/PWATodo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "dist/PWATodo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "dist/PWATodo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "dist/PWATodo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "dist/PWATodo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "dist/PWATodo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "dist/PWATodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "dist/PWATodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "dist/PWATodo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "dist/PWATodo/index.html": "8b2d0c00b2efcc014d1af6f365683d545c2b7c18",
-    "dist/PWATodo/main.52d9a98fc0e5c2e75cf1.js": "e003ad0239057a2de30e29025c96c4bbaeebbc27",
-    "dist/PWATodo/manifest.webmanifest": "d15ca2da15adbd64bb9527cf9398abe61f9e069a",
-    "dist/PWATodo/polyfills.08cdd93a9921fbb99ed7.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
-    "dist/PWATodo/runtime.f9956ac3c2762746a398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "dist/PWATodo/styles.6f858b2ea39fedb0f502.css": "8acb26928c18310e1fcac898c7809a021f6d08d3"
+    "/PWATodo/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/PWATodo/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/PWATodo/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/PWATodo/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/PWATodo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/PWATodo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/PWATodo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/PWATodo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/PWATodo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/PWATodo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/PWATodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/PWATodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/PWATodo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/PWATodo/index.html": "01b24c0e22bec1c1055c6583d58e5ccb8bec5def",
+    "/PWATodo/main.52d9a98fc0e5c2e75cf1.js": "e003ad0239057a2de30e29025c96c4bbaeebbc27",
+    "/PWATodo/manifest.webmanifest": "d15ca2da15adbd64bb9527cf9398abe61f9e069a",
+    "/PWATodo/polyfills.08cdd93a9921fbb99ed7.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "/PWATodo/runtime.f9956ac3c2762746a398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/PWATodo/styles.6f858b2ea39fedb0f502.css": "8acb26928c18310e1fcac898c7809a021f6d08d3"
   },
   "navigationUrls": [
     {
